@@ -33,3 +33,5 @@ ss | 4444
 **Enjoy Your Banking Experience!**
 
 👋 Thank you for exploring Bankist First Simple Ver! We hope you find it informative and engaging. 🤝
+
+#webdevelopment #javascript #JonasSchmidtmann #learning
